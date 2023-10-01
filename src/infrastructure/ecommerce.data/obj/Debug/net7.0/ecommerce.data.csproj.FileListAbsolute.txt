@@ -1,0 +1,17 @@
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\bin\Debug\net7.0\ecommerce.data.deps.json
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\bin\Debug\net7.0\ecommerce.data.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\bin\Debug\net7.0\ecommerce.data.pdb
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\bin\Debug\net7.0\ecommerce.application.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\bin\Debug\net7.0\ecommerce.domain.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\bin\Debug\net7.0\ecommerce.domain.pdb
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\bin\Debug\net7.0\ecommerce.application.pdb
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.AssemblyInfo.cs
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.csproj.CopyComplete
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\refint\ecommerce.data.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ecommerce.data.pdb
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\infrastructure\ecommerce.data\obj\Debug\net7.0\ref\ecommerce.data.dll

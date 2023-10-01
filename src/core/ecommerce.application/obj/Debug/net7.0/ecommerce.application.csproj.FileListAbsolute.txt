@@ -1,0 +1,15 @@
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\bin\Debug\net7.0\ecommerce.application.deps.json
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\bin\Debug\net7.0\ecommerce.application.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\bin\Debug\net7.0\ecommerce.application.pdb
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\bin\Debug\net7.0\ecommerce.domain.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\bin\Debug\net7.0\ecommerce.domain.pdb
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.AssemblyInfo.cs
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.csproj.CopyComplete
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\refint\ecommerce.application.dll
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ecommerce.application.pdb
+C:\Users\josea\source\repos\Modern-eCommerce-website-with-HTML-CSS-JS\src\core\ecommerce.application\obj\Debug\net7.0\ref\ecommerce.application.dll
